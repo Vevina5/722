@@ -3,6 +3,7 @@
 for 722 iterations
 
 the data is collected from https://www.kaggle.com/wendykan/lending-club-loan-data
+
 the dataset is renamed as loanITERATION4.csv in this assignment
 
 1. The datamining report is contained in the rar file uploded through Canvas
